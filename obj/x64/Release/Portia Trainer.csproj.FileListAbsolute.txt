@@ -1,0 +1,22 @@
+C:\Users\Sflashy\Desktop\Portia Trainer\bin\x64\Release\Portia Trainer.exe
+C:\Users\Sflashy\Desktop\Portia Trainer\bin\x64\Release\Portia Trainer.pdb
+C:\Users\Sflashy\Desktop\Portia Trainer\bin\x64\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Sflashy\Desktop\Portia Trainer\obj\x64\Release\MainWindow.g.cs
+C:\Users\Sflashy\Desktop\Portia Trainer\obj\x64\Release\App.g.cs
+C:\Users\Sflashy\Desktop\Portia Trainer\obj\x64\Release\Portia Trainer_MarkupCompile.cache
+C:\Users\Sflashy\Desktop\Portia Trainer\obj\x64\Release\Portia Trainer_MarkupCompile.lref
+C:\Users\Sflashy\Desktop\Portia Trainer\obj\x64\Release\App.baml
+C:\Users\Sflashy\Desktop\Portia Trainer\obj\x64\Release\MainWindow.baml
+C:\Users\Sflashy\Desktop\Portia Trainer\obj\x64\Release\Portia Trainer.g.resources
+C:\Users\Sflashy\Desktop\Portia Trainer\obj\x64\Release\Portia_Trainer.Properties.Resources.resources
+C:\Users\Sflashy\Desktop\Portia Trainer\obj\x64\Release\Portia Trainer.csproj.GenerateResource.cache
+C:\Users\Sflashy\Desktop\Portia Trainer\obj\x64\Release\Portia Trainer.csproj.CoreCompileInputs.cache
+C:\Users\Sflashy\Desktop\Portia Trainer\obj\x64\Release\Portia Trainer.csproj.CopyComplete
+C:\Users\Sflashy\Desktop\Portia Trainer\obj\x64\Release\Portia Trainer.exe
+C:\Users\Sflashy\Desktop\Portia Trainer\obj\x64\Release\Portia Trainer.pdb
+C:\Users\Sflashy\Desktop\Portia Trainer\obj\x64\Release\Portia Trainer.csproj.Fody.CopyLocal.cache
+C:\Users\Sflashy\Desktop\Portia Trainer\bin\x64\Release\MaterialDesignColors.dll
+C:\Users\Sflashy\Desktop\Portia Trainer\bin\x64\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Sflashy\Desktop\Portia Trainer\bin\x64\Release\Memory.dll
+C:\Users\Sflashy\Desktop\Portia Trainer\bin\x64\Release\MaterialDesignColors.pdb
+C:\Users\Sflashy\Desktop\Portia Trainer\bin\x64\Release\MaterialDesignThemes.Wpf.pdb
